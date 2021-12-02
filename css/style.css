@@ -92,6 +92,7 @@ body {
   .sidebar {
     grid-column: 9/13;
   }
+
   body {
     background-size: 89%;
   }
@@ -125,6 +126,7 @@ body {
     grid-template-columns: repeat(2, 1fr);
     padding-bottom: 2rem;
   }
+
   body {
     background-size: 89%;
   }
@@ -163,6 +165,7 @@ body {
     padding-bottom: 2rem;
     align-content: center;
   }
+
   body {
     background-size: 88%;
   }
